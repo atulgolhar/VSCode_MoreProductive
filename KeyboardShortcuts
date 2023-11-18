@@ -1,0 +1,12 @@
+https://code.visualstudio.com/docs/getstarted/keybindings
+
+Keyboard Shortcuts (Windows)
+
+Ctrl Shift P        Command Pallet
+Ctrl K R            open browser with pdf
+Ctrl K S            open VSCode tab with shortcuts
+
+Ctrl W
+Ctrl N
+Ctrl \              Multiple tabs same file,   Ctrl 123 to tab across windows
+Ctrl K O            Open folder
