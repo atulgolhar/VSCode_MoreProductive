@@ -10,3 +10,6 @@ Ctrl W
 Ctrl N
 Ctrl \              Multiple tabs same file,   Ctrl 123 to tab across windows
 Ctrl K O            Open folder
+
+Change Default Terminal
+Command Pallet > Search terminal default profile > Terminal Integrated Default Profile Windows drop down bar
